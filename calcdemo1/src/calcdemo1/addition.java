@@ -7,6 +7,7 @@ public class addition {
 	int c;
 	c=a+b;
 	System.out.println("addition of two numbers is "+c);
+	
 	}
 
 }
